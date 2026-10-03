@@ -1,0 +1,58 @@
+body {
+  background-color: #000000;
+  
+  font-family: Verdana, Arial, Sans-serif;
+}
+
+
+h1 {
+  color: #ffffff;
+  margin-left: 20px;
+  font-size: 60px;
+  
+   }
+   
+   header	{
+	    color: #ffffff;
+		font-size: 60px;
+   }
+		
+   p 	{
+	   color: #ffffff;
+	   font-size: 20px;
+   }
+   
+   h3	{
+	   color: #ffffff;
+	   font-size: 30px;
+   }
+   
+   h5 {
+  color: #ffffff;
+  margin-left: 20px;
+  font-size: 25px;
+   }
+   nav 	{
+	   color: #ff1a1a;
+	   text-align: center;
+	   font-size: 25px;
+ 
+}
+   footer	{
+	    color: #ffffff;
+		font-size: 10px;
+		text-align: center;
+   }
+   #myHeader {
+  background-color: #000000;
+  color: #ffffff;
+  padding: 40px;
+  text-align: center;
+}
+.album {
+  background-color: #b30000;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
